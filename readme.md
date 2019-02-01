@@ -16,9 +16,9 @@ In these lessons you will learn how to navigate macOS, learn about the languages
 
 | Order | Lesson |
 | :--- | :--- |
-| ✅ 03 | [Effective Internet Searching](./preparing-to-code/internet-searching/) |
-| ✅ 04 | [macOS Keyboard navigation](./preparing-to-code/keyboard-navigation/) |
-| ✅ 05 | [Ada programming languages](./preparing-to-code/ada-languages) |
+| 03 | [Effective Internet Searching](./preparing-to-code/internet-searching/) |
+| 04 | [macOS Keyboard navigation](./preparing-to-code/keyboard-navigation/) |
+| 05 | [Ada programming languages](./preparing-to-code/ada-languages) |
 | 06 | [Terminal](./preparing-to-code/terminal/) |
 | 07 | [Environment Setup](./preparing-to-code/environment-setup/) |
 
