@@ -11,6 +11,7 @@ _JumpStart: Lesson 6_
 * Review the notes
 * Read the [Command Line Intro Book](https://hellowebbooks.com/learn-command-line/#cmd-tut) by Tracy Osborn
 * Complete [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+ +++ Pro free form exercises
 * (Optional) Read [Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 
 ## Notes
