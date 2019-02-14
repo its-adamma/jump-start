@@ -27,7 +27,7 @@ These lessons will introduce you to the fundamentals of programming including wr
 
 | Order | Lesson |
 | :--- | :--- |
-| 08 | [Hello World](./learning-to-code/hello-world/) |
+| ✅ 08 | [Hello World](./learning-to-code/hello-world/) |
 | 09 | [Comments, Data types, Mathematical operators, Keyboard input, Strings](./learning-to-code/grammar/) |
 | 10 | [Relational operators, Logical operators, Conditionals](./learning-to-code/programming-expressions/) |
 | 11 | [Iterators](./learning-to-code/iterators/) |
