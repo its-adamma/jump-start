@@ -10,8 +10,8 @@ _JumpStart: Lesson 9_
 * Practice writing and debugging Ruby code
 
 ## Activities
-* Review [notes](#notes) within this section
-* Watch [Video: Now we're programming!](https://adaacademy.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4df0c8ab-64fc-4186-a9e2-a8c4014a4b4b)
+* ✅ Review [notes](#notes) within this section
+* ✅ Watch [Video: Now we're programming!](https://adaacademy.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4df0c8ab-64fc-4186-a9e2-a8c4014a4b4b)
 * Complete the [practice problems](./practice-problems.md) and then check your answers using `irb`
 * Complete the [Numbers problem assignment](#numbers-problem-assignment)
 * Complete the [MadLib assignment](#madlib-assignment)
