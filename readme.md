@@ -1,5 +1,5 @@
 # Ada Developers Academy JumpStart Curriculum
-This repository contains the materials for the Jumpstart program as part of [Ada Developers Academy](http://adadevelopersacademy.org/).
+This repository contains the materials for the Ada Jumpstart program as part of [Ada Developers Academy](http://adadevelopersacademy.org/).
 
 ## [Preparing for Ada](./preparing-for-ada)
 These lessons will expose you to our core values, help you identify your learning styles, and teach you the art of problem solving
