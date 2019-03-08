@@ -2,7 +2,7 @@
 puts " 🍬Welcome to the E-Vending Machine.🍫\n\n"
 
 # Arrays built for purchase options and set costs
-options = ["Twix", "Chips", "Nutter Butter", "Peanut Cup", "Juicy Fruit Gum"]
+options = ["TWIX", "CHIPS", "NUTTER BUTTER", "PEANUT CUP", "JUICY FRUIT GUM"]
 Costs = [0.65, 0.50, 0.75, 0.65, 0.55]
 
 # While loop displays all purchsing options and costs
