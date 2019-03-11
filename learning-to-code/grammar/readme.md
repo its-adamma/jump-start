@@ -12,10 +12,10 @@ _JumpStart: Lesson 9_
 ## Activities
 * ✅ Review [notes](#notes) within this section
 * ✅ Watch [Video: Now we're programming!](https://adaacademy.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4df0c8ab-64fc-4186-a9e2-a8c4014a4b4b)
-* Complete the [practice problems](./practice-problems.md) and then check your answers using `irb`
-* Complete the [Numbers problem assignment](#numbers-problem-assignment)
-* Complete the [MadLib assignment](#madlib-assignment)
-* [Optional] For additional learning and practice, look at the lessons and exercises of [Day 1 of JumpStart Live](https://github.com/Ada-Developers-Academy/jump-start-live/tree/master/lessons/day1#lessons)
+* ✅ Complete the [practice problems](./practice-problems.md) and then check your answers using `irb`
+* ✅ Complete the [Numbers problem assignment](#numbers-problem-assignment)
+* ✅ Complete the [MadLib assignment](#madlib-assignment)
+* ✅ [Optional] For additional learning and practice, look at the lessons and exercises of [Day 1 of JumpStart Live](https://github.com/Ada-Developers-Academy/jump-start-live/tree/master/lessons/day1#lessons)
 
 ## Notes
 
