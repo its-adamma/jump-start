@@ -22,6 +22,7 @@ can2_votes = 0
 can3_votes = 0
 count_vote = 1
 
+
 # while loop requests info from user until 10 valid votes stored
 # Outputs voter results, only input once rather than under each candidate "it/elsif" statement for DRY Code
 # increases vote_count after valid each vote, 
